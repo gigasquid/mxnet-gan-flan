@@ -1,3 +1,5 @@
+![Example GAN Image of Flan](example-pretrained-images/explore-195.jpg)
+
 # gan
 
 Derived from the MNIST GAN example https://github.com/apache/incubator-mxnet/blob/master/contrib/clojure-package/examples/gan/src/gan/gan_mnist.clj
